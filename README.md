@@ -10,7 +10,7 @@ Here's how to get started with the Icosicon Rubik's Cube Simulator
 
 ###Download
 Download an installer for the [latest version](https://github.com/Icosicon/RubiksCubeSim/releases/latest) of RCSim;
-Choose either an executable installer or a zipped folder (either x86 or x64 depending on your system)
+Choose either an executable installer or a zipped folder (either x86 or x64 [depending on your system](http://support.wdc.com/knowledgebase/answer.aspx?ID=9405))
 
 ###Installing Using Zipped Folder
 1. Locate the downloaded zipped folder
