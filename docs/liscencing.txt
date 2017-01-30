@@ -1,0 +1,5 @@
+ICOSICON RUBIK'S CUBE SIMULATOR
+
+This software is completely free and open source under the following conditions:
+-The creator, Tom Wright (for Icosicon), is credited fully for the development of the software in its published state
+-The software is not redistrubuted unless in compliance with the above.
