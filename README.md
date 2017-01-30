@@ -18,4 +18,4 @@ Here's how to get started with the Icosicon Rubik's Cube Simulator
 The interface can be daunting at first but all is not lost:
 
 1. Open the information window by clicking the **i** button; click on the right-hand panel to scroll through the tutorial
-2. Read up on the documenation supplied
+2. Read up on the documentation supplied
